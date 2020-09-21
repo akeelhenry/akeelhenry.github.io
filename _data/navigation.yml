@@ -1,12 +1,6 @@
 # main links
 main:
-  - title: "COMP3603"
-    url: /comp3603
+  - title: "Assignments"
+    url: /assignments
   - title: "About"
     url: /about
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
