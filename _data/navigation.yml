@@ -2,5 +2,7 @@
 main:
   - title: "Assignments"
     url: /assignments
+  - title: "Sketches"
+    url: /sketches
   - title: "About"
     url: /about
