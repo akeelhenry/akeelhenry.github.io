@@ -23,7 +23,7 @@ gallery:
   - url: /assets/images/sketches/Sketches_4.png
     image_path: /assets/images/sketches/Sketches_4.png
     alt: "Business Page Sketch 1"
-    title: "Business Page Sketch"
+    title: "Business Page Sketch 1"
   - url: /assets/images/sketches/Sketches_5.png
     image_path: /assets/images/sketches/Sketches_5.png
     alt: "Business Page Sketch 2"
@@ -36,7 +36,7 @@ gallery:
   - url: /assets/images/sketches/Sketches_7.png
     image_path: /assets/images/sketches/Sketches_7.png
     alt: "Business Management Sketch 1"
-    title: "Business Management Sketch"
+    title: "Business Management Sketch 1"
   - url: /assets/images/sketches/Sketches_8.png
     image_path: /assets/images/sketches/Sketches_8.png
     alt: "Business Management Sketch 2"
@@ -49,7 +49,7 @@ gallery:
   - url: /assets/images/sketches/Sketches_10.png
     image_path: /assets/images/sketches/Sketches_10.png
     alt: "Login Sketch 1"
-    title: "Login Sketch"
+    title: "Login Sketch 1"
   - url: /assets/images/sketches/Sketches_11.png
     image_path: /assets/images/sketches/Sketches_11.png
     alt: "Login Sketch 2"
