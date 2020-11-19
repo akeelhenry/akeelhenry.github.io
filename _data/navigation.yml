@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Assignments"
-    url: /assignments
+  - title: "My Work"
+    url: /mywork
   - title: "Sketches"
     url: /sketches
   - title: "About"
